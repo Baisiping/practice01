@@ -5,7 +5,7 @@
 
 2、账户主页(fork 仓库后 )
 
-![](E:\学习部分\编程导论\练习1\practice01-master\home.png)
+![](.\主页.png)
 
 # 二、GitHub简介
 >
