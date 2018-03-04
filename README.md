@@ -5,7 +5,7 @@
 
 2、账户主页(fork 仓库后 )
 
-![](.\主页.png)
+![](./img/主页.png)
 
 # 二、GitHub简介
 >
@@ -28,7 +28,7 @@ gitHub于2008年4月10日正式上线，除了git代码仓库托管及基本的 
 # 三、课程仓库简介
 ## 1、Home
 
-![](https://github.com/Baisiping/practice01/blob/master/home.png)
+![](./img/home.png)
 
 这个仓库是我们学习编程理论的基础仓库，其中包含了：
 - 课前的准备，例如在自己的电脑上搭建编程环境
@@ -38,12 +38,12 @@ gitHub于2008年4月10日正式上线，除了git代码仓库托管及基本的 
 
 ## 2、PyRankine
 
-![](https://github.com/Baisiping/practice01/blob/master/pyrankine.png)
+![](./img/pyrankine.png)
 
 这个仓库是用Python编写的朗肯循环的模拟计算程序。其中介绍了计算思维和编程技巧，并一步步拆分讲解了朗肯循环的编程实例，同时也提供了许多参考网站和教程
 
 ## 3、SEUIF97仓库
 
-![](https://github.com/Baisiping/practice01/blob/master/seuif97.png)
+![](./img/seuif97.png)
 
 这个仓库是东南大学开发者开发的水和水蒸气性质的计算模型共享库，基于IAPWS-IF97，使用Python语言编写，以便我们以后在工程实际中用来模拟水和水蒸气的热力性质，提高水和水蒸气性质的计算速度。仓库中的文件主要介绍了在windows和Linux环境下的使用方法，给出了很多DEMO程序，可供交互学习，是一个开源的仓库。 
