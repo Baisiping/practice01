@@ -5,7 +5,7 @@
 
 2、账户主页(fork 仓库后 )
 
-![](https://github.com/Baisiping/practice01/blob/master/%E4%B8%BB%E9%A1%B5.png)
+![](E:\学习部分\编程导论\练习1\practice01-master\home.png)
 
 # 二、GitHub简介
 >
